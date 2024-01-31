@@ -1,20 +1,5 @@
-# Road to Front-End Developer Wizard
 
-- [ ] The Front-end Development Tech/Spec Overview
-  - [ ] The World Wide Web
-  - [ ] The Internet
-  - [ ] The Web Platform
-  - [ ] Hypertext Transfer Protocol
-  - [ ] Uniform Resource Locators
-  - [ ] HyperText Markup Language
-  - [ ] Cascading Style Sheets
-  - [ ] Document Object Model 
-  - [ ] JavaScript Programming Language
-  - [ ] Web APIs
-  - [ ] JavaScript Object Notation
-  - [ ] Web Content Accessibility Guidelines & Accessible Rich Internet Applications
-
-    
+I'm there 👋 my name is Ceulain, i'm working as a Front-End Developer and I try to work every day to improve my skills in computer science
 
 <!--
 **ceulain/ceulain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
