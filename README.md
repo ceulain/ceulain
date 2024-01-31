@@ -2,6 +2,10 @@ I'm there 👋 my name is Ceulain, i'm working as a Front-End Developer and I tr
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,nextjs,nodejs,react,redux,styledcomponents,vscode,webpack)](https://skillicons.dev)
 
+[![Ceulain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceulain&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceulain)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ceulain/ceulain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
