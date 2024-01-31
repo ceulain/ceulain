@@ -1,5 +1,6 @@
-
 I'm there 👋 my name is Ceulain, i'm working as a Front-End Developer and I try to work every day to improve my skills in computer science
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,nextjs,nodejs,react,redux,styledcomponents,vscode,webpack)](https://skillicons.dev)
 
 <!--
 **ceulain/ceulain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
