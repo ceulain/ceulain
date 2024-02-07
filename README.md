@@ -6,6 +6,8 @@ I'm there 👋 my name is Ceulain, i'm working as a Front-End Developer and I tr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceulain)](https://github.com/anuraghazra/github-readme-stats)
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65b0dcd40c548122832d56df?variant=light&roadmaps=frontend%2Ccomputer-science%2Ccode-review)](https://roadmap.sh)
+
 <!--
 **ceulain/ceulain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
