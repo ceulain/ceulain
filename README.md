@@ -4,7 +4,7 @@ I'm there 👋 my name is Ceulain, i'm working as a Front-End Developer and I tr
 
 [![Ceulain's GitHub stats](https://github-readme-stats.vercel.app/api?username=ceulain&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceulain)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ceulain&layout=compact)](https://github.com/ceulain/github-readme-stats)
 
 
 <!--
